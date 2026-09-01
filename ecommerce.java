@@ -83,5 +83,6 @@ public class ecommerce {
         generateInvoice(totalCart, charges, discount);
 
         sc.close();
+        
     }
 }
